@@ -65,3 +65,10 @@ layout: default
 
 ## 七、 关键注意事项：这些坑，绕开走！
 　　*   **警惕“无限流量”陷阱**：很多
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Malaysia eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/malaysia-data-plans)
